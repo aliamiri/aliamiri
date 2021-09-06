@@ -4,8 +4,8 @@
 - 👯 I’m looking to collaborate on WEB Projects
 - ⚡ Fun fact: If I'm not found here, I'll most probably watching youtube!
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=aliamiri&count_private=true&show_icons=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliamiri">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jzinedine&count_private=true&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzinedine">
 <!--
 
 Here are some ideas to get you started:
