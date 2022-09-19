@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+i solve problems you don't know you have in ways you **can** understand
+
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on WEB Projects
 - ⚡ Fun fact: If I'm not found here, I'll most probably watching youtube!
