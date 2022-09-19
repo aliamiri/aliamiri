@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-i solve problems you don't know you have in ways you **can** understand
+I solve problems you don't know you have in ways you **can** understand
 
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on WEB Projects
+- 🌱 I’m currently learning Machine Learning.
+- 👯 I’m looking to collaborate on big data projects.
 - ⚡ Fun fact: If I'm not found here, I'll most probably watching youtube!
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aliamiri&count_private=true&show_icons=true">
